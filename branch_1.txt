@@ -4,3 +4,5 @@ modified in branch_1
 
 modified 2 in branch_1
 
+modified 3 in branch_1
+
